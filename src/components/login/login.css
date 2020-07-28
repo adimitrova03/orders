@@ -1,0 +1,11 @@
+.center-items {
+    text-align: center;
+}
+
+.mdl-grid.grid-top {
+    margin-top: 90px;
+}
+
+.grid-top img {
+    margin-bottom: 30px;
+}

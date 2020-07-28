@@ -1,0 +1,15 @@
+{
+  "orderNumber": "Order number",
+  "emailAddress": "Email Address",
+  "proceed": "Proceed",
+  "returnMethod": "Please choose your return method",
+  "dropOff": "Drop off",
+  "collection": "Collection",
+  "method": "Method",
+  "printerRequired": "Printer required",
+  "price": "Price",
+  "pickupSlot": "Pickup slot",
+  "wrongEmail": "Wrong email or order number! Please try again!",
+  "filter": "Filter",
+  "paidReturn": "Paid return"
+}

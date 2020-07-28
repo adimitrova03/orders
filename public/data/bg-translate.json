@@ -1,0 +1,15 @@
+{
+    "orderNumber": "Номер на поръчка",
+    "emailAddress": "Email адрес",
+    "proceed": "Напред",
+    "returnMethod": "Моля иззберете метод за връщане",
+    "dropOff": "Местонахождение",
+    "collection": "Колекция",
+    "method": "Метод",
+    "printerRequired": "Необходима фактура",
+    "price": "Цена",
+    "pickup_slot": "Изберете диапазон",
+    "wrongEmail": "Грешен email или номер на поръчка, моля опитайте отново!",
+    "filter": "Филтър",
+    "paidReturn": "Платено връщане"
+}
